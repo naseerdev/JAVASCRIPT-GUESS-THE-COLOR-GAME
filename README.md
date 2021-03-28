@@ -1,1 +1,2 @@
 # JAVASCRIPT-GUESS-THE-COLOR-GAME
+Live Demo here https://naseerdev.github.io/JAVASCRIPT-GUESS-THE-COLOR-GAME/
